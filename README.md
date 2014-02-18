@@ -6,8 +6,8 @@ Introduction
 This application is meant to be used as a starting place for allaboutindians.
 We are using the ZF2 skeleton application for developing this site.
 
-Installation
-------------
+Installation (Different methods)
+--------------------------------
 
 Using Composer (recommended)
 ----------------------------
